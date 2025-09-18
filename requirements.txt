@@ -1,1 +1,9 @@
- 
+numpy
+scipy
+scikit-learn
+torch
+torchvision
+tensorflow
+mne
+matplotlib
+seaborn 
